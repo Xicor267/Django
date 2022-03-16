@@ -1,0 +1,4 @@
+NO-SQL
+- Không ràng buộc
+- Chơi hệ phân tán, là mã nguồn mở
+- Ko Table => gọi là Document, Collection
